@@ -41,3 +41,13 @@ The top 50 countries are ranked in these factors to create the following heatmap
 
 #### The lower the temperature, the more winter medals the country has.
 ![](observation2.png)
+
+### Nations and their ranks in major sport categories
+![](sports.png)
+
+### Numver of atheletes on each games; divided by edition
+- There were no games during world wars
+- 1932 dip : Great Depression
+- 1976-80 dip : Boycottes (South Africa; Afhganistan)
+
+![](over_the_years.png)
