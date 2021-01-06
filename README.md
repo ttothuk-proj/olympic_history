@@ -17,9 +17,9 @@ The 15 most outstanding nations in the history of olympics, chosen by the total 
 ### Differences in genders and editions
 The number on the charts show the differences in the ranks between season and genders. For example United States has a value of 0 on this chart, meaning that they are ranked at the same position in the displayed categories. However Brazil is a lot stronger in summer games compared to winter games.
 
-Some countries are more successfull in winter, some are in summer editions. 
+Some countries are more successfull in winter, some are in summer editions. The higher the numer is, the more successful the country is in winter games.
 ![](seasonal.png)
 
-The difference in some cultures can be displayed by the contrast of medals won by males and females.
+The difference in some cultures can be displayed by the contrast of medals won by males and females. The higher number is, the more successfull women are compared to men.
 ![](gender.png)
 
