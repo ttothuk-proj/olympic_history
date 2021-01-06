@@ -23,3 +23,11 @@ Some countries are more successfull in winter, some are in summer editions. The 
 The difference in some cultures can be displayed by the contrast of medals won by males and females. The higher number is, the more successfull women are compared to men.
 ![](gender.png)
 
+### Relations
+
+To help finding more relations and connections a heatmap has been made using the aggregated values. It displays each country's total medals won, GDP, Population, Elevation, Temperature, Summer medals, Winter medals, Female and Male medals.
+![](corr.png)
+
+**Observations from the heatmap:**
+- Positive correlation between : Total medals and GDP
+- Negative correlation between : Winter medals and Averagre Temperature
