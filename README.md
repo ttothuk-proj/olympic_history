@@ -33,7 +33,7 @@ To help finding more relations and connections a heatmap has been made using the
 - Negative correlation between : Winter medals and Averagre Temperature
 
 The top 50 countries are ranked in these factors to create the following heatmap. The United States dominates accross almost all categories.
-![](overall.png)
+![](overall_rank.png)
 
 ### The 2 observations made above are represented in a similar fashion.
 #### The higher the GDP, the more medals the country has.
